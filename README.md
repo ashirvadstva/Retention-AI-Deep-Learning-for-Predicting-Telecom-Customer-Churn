@@ -34,7 +34,7 @@ Here’s what we discovered:
 
 1. **Clone the Repository**:
    \`\`\`bash
-   git clone <https://github.com/your-username/Retention-AI>
+   git clone https://github.com/ashirvadstva/Retention_AI.git
    \`\`\`
 2. **Install Dependencies**:
    \`\`\`bash
